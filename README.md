@@ -1,3 +1,2 @@
 # Revert-reset-practice-
-Git講座用　revert reset  
-また間違えた変更
+Git講座用　revert reset
